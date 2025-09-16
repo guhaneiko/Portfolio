@@ -1,6 +1,6 @@
 :root {
-    --text-color: #594A3C;
-    --link-color: #734E20;
+    --text-color: #1d1c1c;
+    --link-color: #36686e;
     --background-color: lightgrey;
 }
 
@@ -16,7 +16,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: var(--background-color);
+    background-color: lightgrey;
     color: var(--text-color)
     /*max-width: 1400px;
     margin: 0 auto;*/
@@ -29,7 +29,7 @@ body {
 }
 
 .section-background {
-    background-color: #F2AC57;
+    background-color: rgb(124, 131, 132);
     padding-top: 40px;
     padding-bottom: 40px;
 }
