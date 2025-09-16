@@ -176,7 +176,7 @@ nav .right a span {
     margin-bottom: 20px;
 }
 
-/*SECTION 4: CONTATO*/
+/*SECTION 4: CONTATO
 .contato-section {
     padding: 0 50px;
     margin-bottom: 100px;
@@ -228,11 +228,12 @@ nav .right a span {
 
 
 @media (max-width: 840px) {
-    /*SECTION 1: HERO */
+    /*SECTION 1: HERO 
     .hero-section .text h2 {
         font-size: 35px;
     }
 }
+*/
 
 @media (max-width: 740px) {
     /*SECTION 1: HERO*/
@@ -249,10 +250,10 @@ nav .right a span {
         text-align: center;
     }
 
-    /*SECTION 4: CONTATO*/
+    /*SECTION 4: CONTATO
     .contato-section .group {
         flex-direction: column;
-    }
+    } */
 
 }
 
@@ -301,10 +302,9 @@ nav .right a span {
         padding: 0 20px;
     }
 
-    /*SECTION 4: CONTATO*/
+    /*SECTION 4: CONTATO
     .contato-section {
         padding: 0 20px;
-    }
-
+    } */
 
 }
